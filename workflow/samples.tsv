@@ -1,0 +1,4 @@
+sample_id	fastq1	fastq2
+A1	/PATH/TO/A1_1.fq.gz	/PATH/TO/A1_2.fq.gz
+A2	/PATH/TO/A2_1.fq.gz	/PATH/TO/A2_2.fq.gz
+# Add all MAL samples + controls/solvent/pool as needed
