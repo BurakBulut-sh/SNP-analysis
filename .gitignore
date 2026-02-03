@@ -1,0 +1,47 @@
+# Logs
+*.log
+*.err
+slurm-*.out
+logs/
+
+# Outputs / scratch
+results/
+tmp/
+work/
+scratch/
+
+# Sequencing & alignments
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.assembled.fastq
+*.unassembled.forward.fastq
+*.unassembled.reverse.fastq
+
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variants
+*.vcf
+*.vcf.gz
+*.tbi
+*.g.vcf
+*.g.vcf.gz
+
+# QC
+*_fastqc/
+*.html
+*.zip
+*.pdf
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
