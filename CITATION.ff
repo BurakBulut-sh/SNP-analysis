@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the associated paper."
+type: software
+title: "Chironomus riparius BaP SNP/gVCF workflow (Slurm)"
+authors:
+  - family-names: Bulut
+    given-names: Burak
+  - family-names: Rigano
+    given-names: Lorenzo
+  - family-names: Binde Doria
+    given-names: Halina
+  - family-names: Gemüth
+    given-names: Gajana
+  - family-names: Pfenninger
+    given-names: Markus
+doi: "10.1016/j.chemosphere.2024.142242"
